@@ -1,0 +1,51 @@
+body{
+	/*background-color: #FFA5CA;*/
+  font-family: "Lucida Console", "Courier New", monospace;
+  background-color: #FFA5CA;
+}
+
+h1{
+	text-align: center;
+
+}
+
+div.boton{
+text-align: center;
+width: 100%;
+
+}
+
+div.bombon{
+	display: inline-block;
+}
+
+div.bombon > h1{
+	font-size: 70px;
+	color: #444444;
+}
+
+
+a{
+	  	display: inline-block;
+	  	margin: 2%;
+	  	margin-top: 20px;
+	  	}
+
+button{
+		  font-family: "Lucida Console", "Courier New", monospace;
+	background-color: #8F05BB;
+	color: whitesmoke;
+  border: 2px solid #000000; /* Green */
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  border-radius: 3px;
+}
+
+img{
+	width: 45px;
+	height: 45px;
+	margin-top: 20px;
+}
